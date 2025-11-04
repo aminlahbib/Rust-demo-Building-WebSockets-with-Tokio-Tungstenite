@@ -1,0 +1,1 @@
+cargo add tokio -F 'tokio/full' futures-util tokio-tungstenite -F 'tokio-tungstenite/native-tls'
